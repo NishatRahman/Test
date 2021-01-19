@@ -1,11 +1,11 @@
 Question Setter
 ---------------
-Name:  **Replace me with your name keeping the bold formatting**         
-Registration # **Replace me with your registration number keeping the bold formatting**            
-Session: *Replace me with your session keeping the italic formatting*            
-GitHub Username: *Replace me with your GitHub Username keeping the italic formatting*               
-Cell: *Replace me with your mobile number(s) keeping the italic formatting*              
-Email: *Replace me with your email id(s) keeping the italic formatting*         
+Name:  **Mahdi Murshed Patwari**
+Registration # **2018331098**
+Session: *2018-19*
+GitHub Username: *123mahdi12345*
+Cell: **
+Email: *123mahdi12345@gmail.com*
 
 Question Set with Answers
 =========================
@@ -53,23 +53,30 @@ Question Set with Answers
     <span class="alignright">Total Marks # <b> 100</b></span>
   </span>
   <hr class="divider">
-  <span style="margin-bottom: 1.2em"> (Answer All the Questions)</span><br>
+  <span style="margin-bottom: 1.2em"> (Answer All the Questions)</span><br><br>
 </div>
 <div style="text-align:center">
   <span style="font-size:1.2em"><b>Group A</b>
-  </span>
+  </span> <br> <br>
   <span id="marking">
     <span class="alignleft">1. Answer the following Questions in short. (Any <b>Five</b>).</span>
     <span class="alignright">5 &times; 2 = 10 </span>
   </span>
 </div>
 
-(a) *Start writing your questions from here ...*        
-**Answer/Example Answer:**    
-*Keep either 'Answer' or 'Example Answer' above based on the answer type.*            
-*Start writing the answer of the question 1(a) of group A from here ...*                 
-*Add more sections named Calculation/Hint/Reference etc. below where needed.*    
-(b)        
+(a) Write the output of the following piece of code.
+&emsp;&emsp;int f = 'F', d = 'D';
+&emsp;&emsp;f%=d-=d>>3;
+&emsp;&emsp;printf("%d %d",f,d);
+
+	Answer:
+	10 60
+
+(b) Which of the followings are valid identifiers? State the reason in the case of invalid.
+&emsp; &emsp; &emsp; _long  &emsp;   -short  &emsp;    const   &emsp;  STATIC
+
+	Answer:
+	_long and STATIC are valid identifiers here. -short is invalid as it contains an illegal character (-) and const cannot be used as an identifier because it is a keyword and has a predefined meaning.       
 (c)       
 (d)         
 (e)        
