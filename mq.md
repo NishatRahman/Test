@@ -784,4 +784,4 @@ ii. Write a program to find the sum of prime divisors of an integer.
   <span style="font-size:1.0em">- End -</span>
 </div>
 
-- [x] I am declaring that, the above work is my own work. Whatever added above except the template is the result of my brainstorming. I also understand that submitting work that isn’t my own may result in permanent failure of this course as well as the whole current semester.
+- [x] I am declaring that, the above work is my own work. Whatever added above except the template is the result of my brainstorming. I also understand that submitting work that isn’t my own may result in permanent failure of this course as well as the whole current  semester.
